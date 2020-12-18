@@ -1,0 +1,41 @@
+h1#title1 {
+ font-family: 'Crimson Pro', serif;
+
+  font-style: italic;
+  text-align: center;
+}
+
+h3#title2 {
+font-family: 'Crimson Pro', serif;
+
+  font-style: italic;
+  text-align: center;
+}
+
+#image {
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  border: solid 5px;
+  padding: 5px;
+
+  
+}
+
+p#img-caption {
+  text-align: center;
+  display: block;
+font-family: 'Crimson Pro', serif;
+  font-style: italic;
+}
+p#tribute-info {
+  text-align: center;
+  font-family: 'Crimson Pro', serif;
+
+}
+
+div#img-div {
+  text-align: center;
+}
+
